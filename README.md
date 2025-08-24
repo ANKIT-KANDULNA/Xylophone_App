@@ -1,16 +1,24 @@
-# xylophone_app
+# 🎵 Xylophone Application
 
-A new Flutter project.
+## ✨ Features:
+  🎶 7 different musical notes (C–B scale).
+  🌈 Vibrant, colorful UI with each button in a unique shade.
+  📱 Responsive design for smooth performance on different devices.
+  🧩 Simple and beginner-friendly code structure.
+  
+## 📸 Screenshots:
+  <img width="471" height="966" alt="image" src="https://github.com/user-attachments/assets/20a9fc20-7b0a-4a9e-987e-91838005a5b4" />
 
-## Getting Started
+## 🎯 Skills Highlighted
+  Flutter & Dart mobile development
+  Working with assets (sounds & images)
+  Implementing custom UI widgets
+  Cross-platform (Android & iOS) support
 
-This project is a starting point for a Flutter application.
+## 📌 Future Improvements
+  Add record & playback functionality.
+  Support for multiple octaves.
+  Add animations for better user experience.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Author
+  Ankit Kandulna
